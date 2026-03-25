@@ -31,7 +31,7 @@ loadstring(game:HttpGet('YOUR_RAW_LOADER_URL'))()
 - Fullbright
 
 ### Exploits
-- Figure Godmode — floats above Figure so it can't detect you
+- Figure Godmode — floats above figure so his hitbox doesnt kills ( W Xason )
 - Anti Cheat Manipulation — clips through walls using rollback
 - Anti Halt — removes Halt before it can spawn
 - Anti Screech — removes Screech and its remote
