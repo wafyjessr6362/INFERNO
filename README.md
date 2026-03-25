@@ -1,5 +1,5 @@
 # INFERNO v0.814
-> The most powerful Doors script ever made.
+> The most useless script ever.
 
 ## How to Use
 ```lua
