@@ -28,9 +28,14 @@ print('==============================')
 local PlaceId = game.PlaceId
 
 local DOORS_PLACE_IDS = {
-    [6516141723] = 'Doors-hotel',
-    [7610550999] = 'Doors-hotel',
-    [15532962292] = 'Doors-hotel',
+    [6516141723]       = 'Doors-hotel',
+    [7610550999]       = 'Doors-hotel',
+    [15532962292]      = 'Doors-hotel',
+    [6839171747]       = 'Doors-hotel',
+    [2440500124]       = 'Doors-hotel',
+    [87716067947993]   = 'Doors-hotel',
+    [10549820578]      = 'Doors-hotel',
+    [110258689672367]  = 'Doors-hotel',
 }
 
 local scriptName = DOORS_PLACE_IDS[PlaceId]
