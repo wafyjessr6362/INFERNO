@@ -3,7 +3,7 @@
 
 ## How to Use
 ```lua
-loadstring(game:HttpGet('YOUR_RAW_LOADER_URL'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wafyjessr6362/INFERNO/main/loader.lua'))()
 ```
 
 ---
