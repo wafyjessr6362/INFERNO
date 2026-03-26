@@ -63,7 +63,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/wafyjessr6362/INFERNO
 | Role | Name |
 |------|------|
 | Owner / Idea Guy | imfahd12331231 |
-| Developer | Claude |
+| Developer | NONE |
 | Infinite Crucifix | Vynixu |
 | Infinite Lockpicks Method | _upio |
 
