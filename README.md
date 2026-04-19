@@ -1,5 +1,5 @@
 # INFERNO v0.814
-> The most useless script ever.
+> The most powerful Doors script ever made.
 
 ## How to Use
 ```lua
@@ -31,7 +31,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/wafyjessr6362/INFERNO
 - Fullbright
 
 ### Exploits
-- Figure Godmode — floats above figure so his hitbox doesnt kills ( W Xason )
+- Figure Godmode — floats above Figure so it can't detect you
 - Anti Cheat Manipulation — clips through walls using rollback
 - Anti Halt — removes Halt before it can spawn
 - Anti Screech — removes Screech and its remote
@@ -62,8 +62,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/wafyjessr6362/INFERNO
 ## Credits
 | Role | Name |
 |------|------|
-| Owner / Idea Guy | imfahd12331231 |
-| Developer | NONE |
+| Owner | imfahd12331231 |
 | Infinite Crucifix | Vynixu |
 | Infinite Lockpicks Method | _upio |
 
