@@ -31,7 +31,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/wafyjessr6362/INFERNO
 - Fullbright
 
 ### Exploits
-- Figure Godmode — floats above Figure so it can't detect you
+- Figure Godmode — floats above Figure so it can't Kill you
 - Anti Cheat Manipulation — clips through walls using rollback
 - Anti Halt — removes Halt before it can spawn
 - Anti Screech — removes Screech and its remote
@@ -53,7 +53,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/wafyjessr6362/INFERNO
 
 ## Supported Executors
 - Velocity
-- Xeno
+- Xeno ( so aura doesnt work with this ): it slow as heck )
 - Fluxus
 - Delta
 
